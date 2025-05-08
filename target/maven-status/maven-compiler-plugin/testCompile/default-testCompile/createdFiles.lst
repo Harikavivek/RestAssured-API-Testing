@@ -1,0 +1,3 @@
+com\api\tests\utils\JsonUtil.class
+com\api\tests\base\BaseTest.class
+com\api\tests\tests\SampleApiTest.class
